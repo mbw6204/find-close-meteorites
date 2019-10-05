@@ -1,2 +1,5 @@
 # find-close-meteorites
-A demo project 
+A demo project
+
+
+### Running
